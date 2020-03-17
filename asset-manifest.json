@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HeartandHands/static/css/main.3c5a74f7.chunk.css",
+    "main.js": "/HeartandHands/static/js/main.4c35d3c7.chunk.js",
+    "main.js.map": "/HeartandHands/static/js/main.4c35d3c7.chunk.js.map",
+    "runtime-main.js": "/HeartandHands/static/js/runtime-main.eaee1391.js",
+    "runtime-main.js.map": "/HeartandHands/static/js/runtime-main.eaee1391.js.map",
+    "static/js/2.f36665b1.chunk.js": "/HeartandHands/static/js/2.f36665b1.chunk.js",
+    "static/js/2.f36665b1.chunk.js.map": "/HeartandHands/static/js/2.f36665b1.chunk.js.map",
+    "index.html": "/HeartandHands/index.html",
+    "precache-manifest.8c6b37b5ee218b1afdf68d30226b26e3.js": "/HeartandHands/precache-manifest.8c6b37b5ee218b1afdf68d30226b26e3.js",
+    "service-worker.js": "/HeartandHands/service-worker.js",
+    "static/css/main.3c5a74f7.chunk.css.map": "/HeartandHands/static/css/main.3c5a74f7.chunk.css.map",
+    "static/js/2.f36665b1.chunk.js.LICENSE.txt": "/HeartandHands/static/js/2.f36665b1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/HeartandHands/static/media/background-tile.9f618658.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaee1391.js",
+    "static/js/2.f36665b1.chunk.js",
+    "static/css/main.3c5a74f7.chunk.css",
+    "static/js/main.4c35d3c7.chunk.js"
+  ]
+}
